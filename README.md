@@ -3,7 +3,7 @@
 CS student at the University of Oslomet studying Computer science. I enjoy building full-stack applications from scratch and turning ideas into products that actually work.
 
 ☁️ Microsoft Azure AI Fundamentals certified (AI-900)  
-🌐 Portfolio: 
+🌐 Portfolio: https://my-portfolio-five-drab-24.vercel.app/
 
 ---
 
