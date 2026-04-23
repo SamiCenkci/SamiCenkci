@@ -59,9 +59,7 @@ Specializing in **full-stack development** with Java/Spring and modern JavaScrip
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[ChatApp](https://github.com/JakobGokpinar/Java-ChatApp)** | Modernized desktop messaging app with Spring Boot API and JavaFX client | Java, Spring Boot, PostgreSQL, JWT |
-| **[Rego Marketplace](https://github.com/JakobGokpinar/mern-marketplace)** | Full-stack marketplace for second-hand items | React, Node.js, MongoDB, AWS |
-| **[Portfolio](https://jakobg-tech.vercel.app)** | Personal portfolio built with Next.js and Tailwind | Next.js, React, Tailwind |
+| **[ReservoirWind](https://github.com/SamiCenkci/ReservoirWind)** | AI-basert prognosesystem for strømforbruk utviklet i samarbeid med SINTEF. Bygde komplett Python-backend for databehandling, maskinlæringsmodeller og API-integrasjon. Håndterte 10 års historiske data (2014-2024) med SQL og pandas. Implementerte automatisert datapipeline med feature engineering, validering og feilhåndtering. Utviklet datavisualisering og interaktive dashboards med matplotlib, seaborn og Plotly. | Python, Pandas, SQL, Scikit-learn, Plotly, Git |
 
 ---
 
