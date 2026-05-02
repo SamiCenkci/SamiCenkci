@@ -65,7 +65,7 @@ Specializing in **full-stack development** with Java/Spring and modern JavaScrip
 ---
 
 <p align="center">
-  <a href="https:/www.linkedin.com/in/sami-cenkci-81620625b" style="text-decoration:none">
+  <a href="https:/www.linkedin.com/in/sami-cenkci-81620625b/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://my-portfolio-five-drab-24.vercel.app/" style="text-decoration:none">
