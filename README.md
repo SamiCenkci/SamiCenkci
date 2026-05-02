@@ -56,10 +56,11 @@ Specializing in **full-stack development** with Java/Spring and modern JavaScrip
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[ReservoirWind](https://github.com/SamiCenkci/ReservoirWind)** | AI-basert prognosesystem for strømforbruk utviklet i samarbeid med SINTEF. Bygde komplett Python-backend for databehandling, maskinlæringsmodeller og API-integrasjon. Håndterte 10 års historiske data (2014-2024) med SQL og pandas. Implementerte automatisert datapipeline med feature engineering, validering og feilhåndtering. Utviklet datavisualisering og interaktive dashboards med matplotlib, seaborn og Plotly. | Python, Pandas, SQL, Scikit-learn, Plotly, Git |
+| **[Portfolio](https://github.com/SamiCenkci/my-portfolio.git)** | Personlig portfolio-nettside bygget med Next.js og Tailwind CSS. Modulær komponentstruktur med gjenbrukbare Card- og Cardbox-komponenter, dynamisk fargekoding for programmeringsspråk, og responsivt design som fungerer sømløst på mobil og desktop. Inkluderer seksjoner for utdanning, erfaring, prosjekter, ferdigheter og daglig rutine med interaktiv timeline. | Next.js, TypeScript, React, Tailwind CSS |
+| **[ArcaneWebSite](https://github.com/SamiCenkci/ArcaneWebSite.git)** | Moderne fan-nettside dedikert til Netflix-serien Arcane. Utforsker karakterene, lore og verden av Piltover og Zaun gjennom en stilren brukeropplevelse. Bygget med fokus på responsivt design og interaktive elementer for å levere en engasjerende fanopplevelse. | JavaScript, Node.js, HTML, CSS |
 
 ---
 
