@@ -1,6 +1,6 @@
 # Hi, I'm Sami 👋
 
-CS student at the University of Oslomet studying Computer science. I enjoy building full-stack applications from scratch and turning ideas into products that actually work.
+Computer Science student at OsloMet (Oslo Metropolitan University). I enjoy building full-stack applications from scratch and turning ideas into products that actually work — and ship.
 
 ☁️ Microsoft Azure AI Fundamentals certified (AI-900)  
 🌐 Portfolio: https://my-portfolio-five-drab-24.vercel.app/
@@ -9,7 +9,7 @@ CS student at the University of Oslomet studying Computer science. I enjoy build
 
 ### 💡 About Me
 
-Specializing in **full-stack development** with Java/Spring and modern JavaScript frameworks. I'm passionate about creating scalable applications and learning new technologies. Always open to collaborations and freelance opportunities!
+Specializing in **full-stack development** across the JavaScript/TypeScript and Go ecosystems, with experience building and deploying complete products — from database design to real-time features and production hosting. Passionate about creating scalable applications and learning new technologies. Always open to collaborations and freelance opportunities!
 
 **Currently:** Looking for internship or freelance opportunities in full-stack development
 
@@ -21,6 +21,7 @@ Specializing in **full-stack development** with Java/Spring and modern JavaScrip
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -33,6 +34,7 @@ Specializing in **full-stack development** with Java/Spring and modern JavaScrip
 
 **Backend & Databases**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -44,21 +46,24 @@ Specializing in **full-stack development** with Java/Spring and modern JavaScrip
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SamiCenkci&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[ReservoirWind](https://github.com/SamiCenkci/ReservoirWind)** | AI-basert prognosesystem for strømforbruk utviklet i samarbeid med SINTEF. Bygde komplett Python-backend for databehandling, maskinlæringsmodeller og API-integrasjon. Håndterte 10 års historiske data (2014-2024) med SQL og pandas. Implementerte automatisert datapipeline med feature engineering, validering og feilhåndtering. Utviklet datavisualisering og interaktive dashboards med matplotlib, seaborn og Plotly. | Python, Pandas, SQL, Scikit-learn, Plotly, Git |
+| **[Wisp](https://github.com/SamiCenkci/Shopping-Website)** · [Live](https://wispapp.net) | Full-stack secondhand marketplace for the Norwegian market, inspired by Finn.no. Built end-to-end: JWT authentication, listings with AWS S3 image uploads, fuzzy search (PostgreSQL `pg_trgm`), real-time buyer–seller chat over WebSockets with file and image sharing, unread-message indicators, a favorites system, and light/dark mode. Self-hosted and served to the public over HTTPS via Cloudflare Tunnel. | Next.js, TypeScript, Go (Gin), PostgreSQL, WebSockets, AWS S3, Cloudflare |
+| **[ReservoirWind](https://github.com/SamiCenkci/ReservoirWind)** | AI-basert prognosesystem for strømforbruk utviklet i samarbeid med SINTEF. Bygde komplett Python-backend for databehandling, maskinlæringsmodeller og API-integrasjon. Håndterte 10 års historiske data (2014–2024) med SQL og pandas. Implementerte automatisert datapipeline med feature engineering, validering og feilhåndtering. Utviklet datavisualisering og interaktive dashboards med matplotlib, seaborn og Plotly. | Python, Pandas, SQL, Scikit-learn, Plotly, Git |
 | **[Portfolio](https://github.com/SamiCenkci/my-portfolio.git)** | Personlig portfolio-nettside bygget med Next.js og Tailwind CSS. Modulær komponentstruktur med gjenbrukbare Card- og Cardbox-komponenter, dynamisk fargekoding for programmeringsspråk, og responsivt design som fungerer sømløst på mobil og desktop. Inkluderer seksjoner for utdanning, erfaring, prosjekter, ferdigheter og daglig rutine med interaktiv timeline. | Next.js, TypeScript, React, Tailwind CSS |
 | **[ArcaneWebSite](https://github.com/SamiCenkci/ArcaneWebSite.git)** | Moderne fan-nettside dedikert til Netflix-serien Arcane. Utforsker karakterene, lore og verden av Piltover og Zaun gjennom en stilren brukeropplevelse. Bygget med fokus på responsivt design og interaktive elementer for å levere en engasjerende fanopplevelse. | JavaScript, Node.js, HTML, CSS |
 
@@ -71,7 +76,11 @@ Specializing in **full-stack development** with Java/Spring and modern JavaScrip
   <a href="https://my-portfolio-five-drab-24.vercel.app/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://wispapp.net" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Wisp_Live-1A9E4B?style=flat&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:samicenkci02@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
